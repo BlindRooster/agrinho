@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
 
 /* Variáveis */
@@ -11,6 +10,10 @@
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
+
+/* código omitido *//* código omitido */
+
+/* Reset */
 * {
     margin: 0;
     padding: 0;
@@ -36,3 +39,5 @@ p {
 img {
     max-width: 90%;
 }
+
+/* código omitido */
